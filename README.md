@@ -25,7 +25,7 @@ Quando a edição realizada no branch estiver completa deve ser feito um **push 
 
 ### Comando úteis do git
 
-- `git commit -a -m "comentário objetivo"` = 
+- `git commit -a -m "comentário objetivo"` = Permite você já adicionar arquivo no 'palco' (stage) para que possam ser dado um commit direto.
 
 - `git commit --amend` = Sobrescreve o último commit.
 
