@@ -3,6 +3,10 @@
 ## Indice
 
 * Regras para organização dos repositórios
+* Comandos relacionados a branch
+* Comando úteis do git
+* Diferença entre Merge e Rebase
+* Extra
 
 ---
 
@@ -12,7 +16,7 @@ Quando realizar alteração no git devemos dar o `git commit` e o `git push` par
 Quando a edição realizada no branch estiver completa deve ser feito um **push request** no GitHub e dois dos desenvolvedores devem checar as alteração para ver se existe conflito e verificar o código para que ele seja fundido (merge) com o branch master.
 
 
-#### Comandos relacionados:
+### Comandos relacionados a branch:
 - `git branch` = mostra todas as branchs existentes
 
 - `git checkout -b NOME-DO-BRANCH` = Cria uma nova branch - a partir da branch **master**.
@@ -43,3 +47,6 @@ O **merge** mescla o *branch* atual com *outro branch* ambos em seu estado atual
 O **rebase** pega seu *branch* atual e muda seu inicio, sua base.
 
 
+### Extra
+
+Site que te ajuda achar mais facilmente comandos do git: [git_explorer](https://gitexplorer.com/).
