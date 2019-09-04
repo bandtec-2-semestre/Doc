@@ -23,7 +23,7 @@ Quando a edição realizada no branch estiver completa deve ser feito um **push 
 
 - `git push -u origin NOME-DO-BRANCH` = Dá o push para a nova branch.
 
-- `git branch -a NOME-DO-BRANCH` = Deleta o branch.
+- `git branch -d NOME-DO-BRANCH` = Deleta o branch.
 
 - `git merge NOME-DO-BRANCH` = Pega o contéudo do branch desejado e passa para o branch atual.
 
