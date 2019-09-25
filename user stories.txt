@@ -1,8 +1,0 @@
-# User Stories 1
-
-Sou gerente de infraestrutura do prédio e preciso me asegurar que a segurança dos funcionários e das informações 
-
-# User Stories 2
-
-Eu enquanto dono de uma empresa de ti preciso assegurar a continuidade das operações da minha empresa e o sigilo de dados porque tenho obrigações legais, fiscais e segredos de negócio. 
-
