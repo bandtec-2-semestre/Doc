@@ -2,6 +2,7 @@
 
 ## Indice
 
+* Ferramentas para diagramas
 * Regras para organização dos repositórios
 * Comandos relacionados a branch
 * Comando úteis do git
@@ -9,6 +10,10 @@
 * Extra
 
 ---
+## Ferramentas para diagramas
+- (DIAGRMAS EM GERAL) https://www.lucidchart.com/pages/
+- (BPMN) https://www.bizagi.com/en/products/bpm-suite/modeler
+- (DIAGRAMAS EM GERAL) https://pencil.evolus.vn/
 
 ### Regras para organização dos repositórios
 
